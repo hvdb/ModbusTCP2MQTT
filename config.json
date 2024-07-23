@@ -1,10 +1,10 @@
 {
-  "name": "ModbusTCP2MQTT",
+  "name": "ModbusTCP2MQTT HVDB",
   "version": "0.3.9.1",
   "slug": "modbus_inverter",
-  "description": "Sungrow/SMA inverter Modbus Data Fetcher",
+  "description": "PowMR inverter Modbus Data Fetcher",
   "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
-  "url": "https://github.com/MatterVN/ModbusTCP2MQTT",
+  "url": "https://github.com/hvdb/ModbusTCP2MQTT",
   "init": false,
   "startup": "application",
   "boot": "auto",

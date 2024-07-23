@@ -1,8 +1,8 @@
-name: ModbusTCP2MQTT
+name: ModbusTCP2MQTT-hvdb
 version: "0.3.8"
 slug: modbus_inverter
-description: Sungrow/SMA inverter Modbus communication
-url: "https://github.com/MatterVN/ModbusTCP2MQTT"
+description: Powmr inverter Modbus communication
+url: "https://github.com/hvdb/ModbusTCP2MQTT"
 arch: 
   - armhf
   - armv7
